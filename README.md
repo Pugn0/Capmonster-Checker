@@ -19,7 +19,7 @@
 
 ----
 
-### ⚠️ Requirements
+### ⚠️ Requisitos
 * Python : `+3.8`
 ### 📜 Features
 * Multi Threaded
@@ -27,7 +27,7 @@
 
 ----
 
-### 💡 Usage
+### 💡 Uso
 * Click `start.bat`
   
 ----
