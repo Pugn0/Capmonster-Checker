@@ -38,3 +38,6 @@
 * Edite `webhook_url` com o URL do webhook do discord para receber a chave da API.
 
 ----
+
+### 💻 Créditos
+* Desenvolvido por [@VirusNoirrr](https://github.com/VirusNoirrr)
